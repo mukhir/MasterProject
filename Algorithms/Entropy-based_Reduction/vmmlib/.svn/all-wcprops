@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/vmmlib/!svn/ver/95/trunk/include/vmmlib/LICENSE
+END
+frustumCuller.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib/frustumCuller.h
+END
+svd.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/vmmlib/!svn/ver/96/trunk/include/vmmlib/svd.h
+END
+jacobiSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/vmmlib/!svn/ver/95/trunk/include/vmmlib/jacobiSolver.h
+END
+vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib/vector2.h
+END
+frustum.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib/frustum.h
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib/quaternion.h
+END
+vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib/vector3.h
+END
+vector4.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib/vector4.h
+END
+vmmlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/vmmlib/!svn/ver/95/trunk/include/vmmlib/vmmlib.h
+END
+axisAlignedBoundingBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/vmmlib/!svn/ver/95/trunk/include/vmmlib/axisAlignedBoundingBox.h
+END
+matrix3.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib/matrix3.h
+END
+helperFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/vmmlib/!svn/ver/95/trunk/include/vmmlib/helperFunctions.h
+END
+matrix4.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/vmmlib/!svn/ver/98/trunk/include/vmmlib/matrix4.h
+END
